@@ -2,7 +2,8 @@
 
 Titus Winters, Software Engineering at Google
 
-
+<br>
 <b>O que é um trade-off na escolha das ferramentas utilizadas no API?</b>
-
+<br>
+a
 
