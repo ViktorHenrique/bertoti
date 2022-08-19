@@ -2,8 +2,7 @@
 
 Titus Winters, Software Engineering at Google
 
-<br>
+<br><br>
 <b>O que é um trade-off na escolha das ferramentas utilizadas no API?</b>
 <br>
-a
-
+O trade-off se trata da priorização de cada ferramenta para o desenvolvimento das tarefas de acordo com os requisitos demandados pelo projeto.
