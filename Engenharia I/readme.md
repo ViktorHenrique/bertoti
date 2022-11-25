@@ -24,6 +24,9 @@ O trade-off se trata da priorização de cada ferramenta para o desenvolvimento 
 
 > **Funcionais:**
 
+- Cadastrar Roupas numa Loja
+- Verificar Roupas Cadastradas
+
 <br>
 
 > **Não Funcionais:**
@@ -31,3 +34,15 @@ O trade-off se trata da priorização de cada ferramenta para o desenvolvimento 
 - Protocolo de Segurança
 - Portatibilidade
 - Intuitiva
+
+<br>
+
+<h2><b>Casos de Uso</b></h2>
+
+<img src="bertoti2">
+
+<br>
+
+<h2><b>Diagrama de Classe</b></h2>
+
+<img src="bertoti1">
