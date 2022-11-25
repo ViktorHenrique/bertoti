@@ -24,7 +24,7 @@ O trade-off se trata da priorização de cada ferramenta para o desenvolvimento 
 
 > **Funcionais:**
 
-- Cadastrar Roupas numa Loja
+- Cadastrar Roupas de Loja
 - Verificar Roupas Cadastradas
 
 <br>
