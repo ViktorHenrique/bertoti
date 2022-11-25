@@ -52,5 +52,5 @@ O trade-off se trata da priorização de cada ferramenta para o desenvolvimento 
 <img src="img/a7.png">
 <img src="img/a8.png">
 <img src="img/a3.png">
-<img src="img/a4.png">
+<img src="img/a9.png">
 <img src="img/a6.png">
