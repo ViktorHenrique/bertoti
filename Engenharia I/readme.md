@@ -39,10 +39,10 @@ O trade-off se trata da priorização de cada ferramenta para o desenvolvimento 
 
 <h2><b>Casos de Uso</b></h2>
 
-<img src="Readme/bertoti2.png">
+<img src="Readme/Bertoti2.png">
 
 <br>
 
 <h2><b>Diagrama de Classe</b></h2>
 
-<img src="Readme/bertoti1.png">
+<img src="Readme/Bertoti1.png">
