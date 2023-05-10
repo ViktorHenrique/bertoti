@@ -1,4 +1,4 @@
-<h2 align="center"><b>AHeurísticas de Nielsen</b></h2>
+<h1 align="center"><b>As Heurísticas de Nielsen</b></h2>
 
 <ul>
   <li>1- <a href="#1-heurista">Visibilidade do status do sistema</a>
@@ -16,7 +16,7 @@
 <h3 id="1-heurista">1- Visibilidade do status do sistema</h3>
 
 Exemplo positivo
-<img src="img/1-b.png">
+<br><img src="img/1-b.png"><br>
 Ao assistir uma playlist no YouTube, é comum ter acesso a uma lista de vídeos relacionados na lateral direita da tela. Essa lista fornece ao usuário informações sobre qual vídeo está sendo reproduzido atualmente, além de exibir uma lista completa de todos os vídeos que fazem parte da playlist, indicando qual vídeo é o próximo e quais já foram reproduzidos anteriormente.
 
 <br>
