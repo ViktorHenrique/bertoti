@@ -46,8 +46,14 @@ Terminologia e as opções de menu usadas no PhotoShop podem não ser intuitivas
 <h3 id="3-heurista">3- Controle e liberdade do usuário</h3>
 
 <i><h4>Exemplo positivo (Word)</h4></i>
-<br><img width="500px" src="img/3-b.png">
+<br><img width="600px" src="img/3-b.png">
 Recursos que permitem desfazer ações, criar e salvar várias versões de documentos e personalizar configurações de aplicativos.
+
+<br>
+
+<i><h4>Exemplo negativo (iTunes)</h4></i>
+<br><img width="600px" src="img/3-m.png">
+Conhecido por ser muito rígido em relação à organização de músicas e playlists, o que torna difícil para os usuários gerenciar sua biblioteca da maneira que preferirem. Além disso, o iTunes tem uma interface confusa e pouco intuitiva.
 
 <br><br>
 
@@ -126,6 +132,12 @@ Craigslist é um site de classificados online, onde na página inicial do site t
 <i><h4>Exemplo positivo (Grammarly)</h4></i>
 <br><img width="600px" src="img/9-b.jpg">
 Quando um usuário digita algo que contém um erro de ortografia ou gramática, o aplicativo o sublinha em vermelho e sugere correções específicas.
+
+<br>
+
+<i><h4>Exemplo negativo (Norton)</h4></i>
+<br><img width="600px" src="img/9-m.jpg">
+ Quando ocorre um erro, muitas vezes as mensagens de erro fornecidas não são claras e o software não oferece sugestões sobre como resolver o problema.
 
 <br><br>
 
