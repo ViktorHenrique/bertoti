@@ -23,6 +23,12 @@ Ao assistir uma playlist no YouTube, é comum ter acesso a uma lista de vídeos 
 
 <br><br>
 
+<i><h4>Exemplo negativo (Avast)</h4></i>
+<br><img width="600px" src="img/1-m.jpg">
+Às vezes não fornece informações claras ou suficientes sobre as atualizações ou escaneamentos em andamento, deixando o usuário incerto quanto ao progresso ou sucesso dessas atividades.
+
+<br><br>
+
 <h3 id="2-heurista">2- Correspondência entre o sistema e o mundo real</h3>
 
 <i><h4>Exemplo positivo (Maps)</h4></i>
@@ -67,6 +73,12 @@ No Linkedin, se um usuário inserir uma informação inválida, um aviso será e
 
 <br><br>
 
+<i><h4>Exemplo negativo (Windows)</h4></i>
+<br><img width="600px" src="img/5-m.jpg">
+Ocorre quando o sistema operacional encontr um erro crítico e não consegue se recuperar, fazendo com que o computador trave completamente e precise reinicir. Além disso, a interface do usuário muitas vezes não forne informações claras sobre o que causou o erro.
+
+<br><br>
+
 <h3 id="6-heurista">6- Reconhecimento em vez de lembrança</h3>
 
 <i><h4>Exemplo positivo (Windows)</h4></i>
@@ -104,7 +116,7 @@ Site da empresa Apple, que utiliza uma paleta de cores simples e limpa, tipograf
 <br><br>
 
 <i><h4>Exemplo negativo (Craiglist)</h4></i>
-<br><img width="500px" src="img/8-m.PNG">
+<br><img width="600px" src="img/8-m.PNG">
 Craigslist é um site de classificados online, onde na página inicial do site tem uma grande quantidade de informações e links para várias categorias e subcategorias de anúncios.
 
 <br><br>
