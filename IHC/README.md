@@ -21,7 +21,7 @@
 <br><img width="800px" src="img/1-b.PNG">
 Ao assistir uma playlist no YouTube, é comum ter acesso a uma lista de vídeos relacionados na lateral direita da tela. Essa lista fornece ao usuário informações sobre qual vídeo está sendo reproduzido atualmente, além de exibir uma lista completa de todos os vídeos que fazem parte da playlist, indicando qual vídeo é o próximo e quais já foram reproduzidos anteriormente.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (Avast)</h4></i>
 <br><img width="600px" src="img/1-m.jpg">
@@ -35,7 +35,7 @@ Ao assistir uma playlist no YouTube, é comum ter acesso a uma lista de vídeos 
 <br><img width="800px" src="img/2-b.PNG">
 O mapa geralmente é exibido em um formato semelhante ao que o usuário encontraria em um mapa impresso, tornando-o mais familiar e fácil de entender. Além disso, as informações de navegação são apresentadas de forma clara e concisa, com ícones e símbolos que correspondem a objetos e locais do mundo real.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (PhotoShop)</h4></i>
 <br><img width="600px" src="img/2-m.png">
@@ -57,7 +57,7 @@ Recursos que permitem desfazer ações, criar e salvar várias versões de docum
 <br><img width="800px" src="img/4-b.png">
 O Google Drive é um exemplo positivo de aplicação que segue essa heurística, com um layout consistente e padrões visuais claros em todas as suas funcionalidades, o que aumenta a eficiência e a satisfação do usuário.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (Adobe Premiere)</h4></i>
 <br><img width="600px" src="img/4-m.jpg">
@@ -71,7 +71,7 @@ No Adobe Premiere a forma como o usuário define a taxa de quadros de um projeto
 <br><img width="600px" src="img/5-b.PNG">
 No Linkedin, se um usuário inserir uma informação inválida, um aviso será exibido ao lado do campo correspondente, evitando que o usuário prossiga com dados inconsistentes.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (Windows)</h4></i>
 <br><img width="600px" src="img/5-m.jpg">
@@ -85,7 +85,7 @@ Ocorre quando o sistema operacional encontr um erro crítico e não consegue se 
 <br><img width="400px" src="img/6-b.PNG">
 Em vez de o usuário precisar lembrar o endereço exato, é exibido o caminho percorrido.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (Bloco de Notas)</h4></i>
 <br><img width="600px" src="img/6-m.PNG">
@@ -99,7 +99,7 @@ Não possui um recurso de sugestão de palavras enquanto o usuário digita. Isso
 <br><img width="600px" src="img/7-b.png">
 O aplicativo permite que os usuários personalizem as configurações de forma a torná-lo mais eficiente e personalizado.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (Final Cut Pro X)</h4></i>
 <br><img width="600px" src="img/7-m.png">
@@ -113,7 +113,7 @@ Possuem muitas funcionalidades, mas não oferecem opções personalizáveis de a
 <br><img width="600px" src="img/8-b.PNG">
 Site da empresa Apple, que utiliza uma paleta de cores simples e limpa, tipografia clara e imagens focadas no produto, resultando em um design elegante e funciona.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (Craiglist)</h4></i>
 <br><img width="600px" src="img/8-m.PNG">
@@ -135,7 +135,7 @@ Quando um usuário digita algo que contém um erro de ortografia ou gramática, 
 <br><img width="800px" src="img/10-b.png">
 Stack Overflow é uma plataforma colaborativa de perguntas e respostas para programadores, e oferece diversas opções de ajuda e documentação, como uma seção de ajuda e um guia de como fazer uma boa pergunta.
 
-<br><br>
+<br>
 
 <i><h4>Exemplo negativo (Discord)</h4></i>
 <br><img src="img/10-m.jpg">
