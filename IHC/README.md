@@ -138,7 +138,7 @@ Stack Overflow é uma plataforma colaborativa de perguntas e respostas para prog
 <br>
 
 <i><h4>Exemplo negativo (Discord)</h4></i>
-<br><img src="img/10-m.jpg">
+<br><img width="600px" src="img/10-m.jpg">
 Não possui uma documentação clara e objetiva sobre suas funcionalidades.
 
 
