@@ -136,7 +136,7 @@ Quando um usuário digita algo que contém um erro de ortografia ou gramática, 
 <br>
 
 <i><h4>Exemplo negativo (Norton)</h4></i>
-<br><img width="600px" src="img/9-m.jpg">
+<br><img width="600px" src="img/9-m.png">
  Quando ocorre um erro, muitas vezes as mensagens de erro fornecidas não são claras e o software não oferece sugestões sobre como resolver o problema.
 
 <br><br>
