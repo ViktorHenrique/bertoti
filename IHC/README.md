@@ -54,7 +54,7 @@ Recursos que permitem desfazer ações, criar e salvar várias versões de docum
 <h3 id="4-heurista">4- Consistência e padrões</h3>
 
 <i><h4>Exemplo positivo (Drive)</h4></i>
-<br><img width="800px" src="img/4-b.png">
+<br><img width="600px" src="img/4-b.png">
 O Google Drive é um exemplo positivo de aplicação que segue essa heurística, com um layout consistente e padrões visuais claros em todas as suas funcionalidades, o que aumenta a eficiência e a satisfação do usuário.
 
 <br>
@@ -116,7 +116,7 @@ Site da empresa Apple, que utiliza uma paleta de cores simples e limpa, tipograf
 <br>
 
 <i><h4>Exemplo negativo (Craiglist)</h4></i>
-<br><img width="600px" src="img/8-m.PNG">
+<br><img width="650px" src="img/8-m.PNG">
 Craigslist é um site de classificados online, onde na página inicial do site tem uma grande quantidade de informações e links para várias categorias e subcategorias de anúncios.
 
 <br><br>
