@@ -1,1 +1,15 @@
-text
+Nome do Padrão | Anti-Padrão | Defiinição do Padrão | Problema que ele resolve | Exemplo de aplicação
+
+:---: | :---: | :---: | :---: | :---:
+
+Strategy | Herança | Define uma família de algoritmos, coloca em classes separadas, e faz os objetos deles intercambiáveis | Resolve o problema de permitir que você defina uma família de algoritmos, coloque cada algoritmo em classes separadas e torne os objetos dessas classes intercambiáveis.  | Um aplicativo de processamento de pagamentos pode oferecer aos usuários a opção de escolher entre diferentes estratégias de pagamento, como cartão de crédito, transferência bancária, PayPal, etc.
+
+Observer | Alto Acomplamento | Define um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando. | Resolve o problema de permitir que um objeto mantenha uma lista de seus dependentes e notifique automaticamente esses observadores quando ocorrem mudanças em seu estado interno. | Em uma plataforma de redes sociais, como o Twitter, os usuários podem seguir outros usuários.
+
+Composite | Herança & alto-acomplamento | Compõe objetos em estruturas de árvores e então trabalha com essas estruturas como se elas fossem objetos individuais. | Resolve o problema de como representar estruturas de árvores ou hierarquias de objetos de uma maneira que permita que os clientes trabalhem com elementos individuais e com coleções de elementos de forma consistente. | Em um carrinho de compras de um site de compras online, você pode adicionar itens ao carrinho.
+
+Facade | Complexidade de acoplamento |  Fornece uma interface simplificada para um conjunto mais amplo e complexo de interfaces dentro de um subsistema | Resolve o problema de complexidade de acoplamento, que ocorre quando um sistema possui muitas classes e interfaces interconectadas. |  Pode realizar ações no sistema de home theater sem precisar entender todos os detalhes de como cada componente funciona individualmente.
+
+Singleton | Múltiplas instâncias | Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a essa instância | Resolve o problema de garantir que uma classe tenha apenas uma instância, controlando o acesso a essa instância e fornecendo uma maneira de recuperá-la.  | Um contador de acessos em um site. Utilizando o padrão Singleton, você pode garantir que existe apenas uma instância do contador em todo o sistema.
+
+MVC | Duplo acoplamento | O Modelo representa os dados e a lógica de negócios, a Visualização exibe a informação ao usuário e o Controlador manipula as entradas do usuário, agindo como um intermediário entre o Modelo e a Visualização. |  Resolve o problema de manter uma separação clara de responsabilidades em uma aplicação, melhorando a manutenção, reusabilidade e flexibilidade do código. |  O Modelo pode representar a lista de tarefas e as operações relacionadas a ela, a Visualização exibe as tarefas na interface do usuário, e o Controlador gerencia a interação do usuário, como adicionar ou remover tarefas.
