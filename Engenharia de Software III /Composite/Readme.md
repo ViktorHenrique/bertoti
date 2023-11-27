@@ -2,7 +2,7 @@
 
 ## Diagrama
 
-(imagem)
+![DiagramaComposite](https://github.com/ViktorHenrique/bertoti/blob/main/Engenharia%20de%20Software%20III%20/Composite/Images/DiagramaComposite.PNG)
 
 ## Código
 
