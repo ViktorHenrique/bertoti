@@ -2,7 +2,7 @@
 
 ## Diagrama
 
-(imagem)
+![DiagramaSingleton](https://github.com/ViktorHenrique/bertoti/blob/main/Engenharia%20de%20Software%20III%20/Singleton/Images/DiagramaSingleton.PNG)
 
 ## Código
 
