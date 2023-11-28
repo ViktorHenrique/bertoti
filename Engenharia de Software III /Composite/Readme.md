@@ -104,3 +104,9 @@ public interface Partida {
 }
 ```
 
+```java
+public interface Partida {
+    void acompanhar();
+    double getIngresso;
+}
+```
